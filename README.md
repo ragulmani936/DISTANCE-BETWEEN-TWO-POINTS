@@ -24,6 +24,6 @@ print("{:.2f}".format(distance))
 
 
 ### OUTPUT:
-1[output](https://github.com/ragulmani936/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(16).png?raw=true)
+![output](https://github.com/ragulmani936/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(16).png?raw=true)
 
 ### RESULT:
