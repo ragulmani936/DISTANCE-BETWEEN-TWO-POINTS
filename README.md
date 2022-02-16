@@ -31,3 +31,4 @@ print("{:.2f}".format(distance))
 ![output](https://github.com/ragulmani936/DISTANCE-BETWEEN-TWO-POINTS/blob/main/Screenshot%20(16).png?raw=true)
 
 ### RESULT:
+Thus the distance is successfully calculated
